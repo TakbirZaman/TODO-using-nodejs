@@ -1,0 +1,42 @@
+[
+  {
+    "id": "moro7ermml2xwf3vyd",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, and bread",
+    "completed": false,
+    "createdAt": "2026-05-04T20:47:09.442Z",
+    "updatedAt": "2026-05-04T20:47:09.442Z"
+  },
+  {
+    "id": "moro7erm0qdw8uh6xpg",
+    "title": "Read a book",
+    "description": "Finish 'Clean Code' by Robert Martin",
+    "completed": false,
+    "createdAt": "2026-05-04T20:47:09.442Z",
+    "updatedAt": "2026-05-04T20:47:09.442Z"
+  },
+  {
+    "id": "moro7ermgeblnjxbeb7",
+    "title": "Exercise",
+    "description": "30 minutes of cardio",
+    "completed": false,
+    "createdAt": "2026-05-04T20:47:09.442Z",
+    "updatedAt": "2026-05-04T20:47:09.442Z"
+  },
+  {
+    "id": "moro7ermmvu8zucdzhq",
+    "title": "Write unit tests",
+    "description": "Cover all CRUD endpoints",
+    "completed": false,
+    "createdAt": "2026-05-04T20:47:09.442Z",
+    "updatedAt": "2026-05-04T20:47:09.442Z"
+  },
+  {
+    "id": "moro7erm0yy48wcqyhtm",
+    "title": "Call the bank",
+    "description": "Ask about the new account",
+    "completed": false,
+    "createdAt": "2026-05-04T20:47:09.442Z",
+    "updatedAt": "2026-05-04T20:47:09.442Z"
+  }
+]
